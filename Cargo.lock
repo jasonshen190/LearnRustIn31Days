@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "day01_hello_rust"
 version = "0.1.0"
+
+[[package]]
+name = "day02_variables_types"
+version = "0.1.0"

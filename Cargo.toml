@@ -1,0 +1,7 @@
+[workspace]
+resolver = "3"
+members = [
+    "day01_hello_rust",
+    "day02_variables_types",
+    # 你可以继续添加其他子目录
+]
