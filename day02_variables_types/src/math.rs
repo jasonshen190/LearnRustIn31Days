@@ -12,6 +12,7 @@ pub fn demo() {
     println!("y 的新值: {}", y);
     
     // 变量遮蔽（shadowing）
+    // read document for more information about shadowing!!!!
     let z = 5;
     let z = z + 1; // 创建新变量，遮蔽旧的
     println!("z current value: {}", z);
