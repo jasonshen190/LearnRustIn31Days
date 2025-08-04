@@ -3,6 +3,6 @@ resolver = "3"
 members = [
     "day01_hello_rust",
     "day02_variables_types", 
-    "day03_control_flow",
+    "day03_control_flow", "day04_ownership",
     # 你可以继续添加其他子目录
 ]
