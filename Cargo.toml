@@ -5,6 +5,6 @@ members = [
     "day02_variables_types", 
     "day03_control_flow", 
     "day04_ownership", 
-    "day05_structs",
+    "day05_structs", "day06_enums",
     # 你可以继续添加其他子目录
 ]
